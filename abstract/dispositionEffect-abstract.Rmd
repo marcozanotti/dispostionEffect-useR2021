@@ -1,0 +1,54 @@
+---
+title: "Computing Disposition Effect on Financial Market Data"
+author: "Lorenzo Mazzucchelli  -  Marco Zanotti"
+date: "2021/07/07"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In recent years, an irrational phenomenon in financial markets is 
+grabbing the attention of behavioral economists: the **disposition effect**. 
+Firstly discovered by H. Shefrin and M. Statman (1985), the disposition 
+effect consists in the realization that investors are more likely to sell 
+an asset when it is gaining value compared to when it is losing value. 
+A phenomenon which is closely related to sunk costs’ bias, diminishing 
+sensitivity, and loss aversion.  
+
+From 1985 until now, the disposition effect has been documented in US 
+retail stock investors as well as in foreign retail investors and even 
+among professionals and institutions. By the time, it is a well-established 
+fact that the disposition effect is a real behavioral anomaly that 
+strongly influences the final profits (or losses) of investors. 
+Furthermore, being able to correctly capture these irrational behaviors 
+timely is even more important in periods of high financial volatility 
+as nowadays.  
+
+The presentation focuses on the new **dispositionEffect R package** that 
+allows to quickly evaluate the presence of disposition effect’s 
+behaviors of an investor based solely on his transactions and the market 
+prices of the traded assets. A simple step-by-step practical guide 
+is presented to understand how to effectively use all the implemented 
+functionalities. Finally, since financial data may be potentially huge 
+in size, efficiency concerns are discussed and the parallelized versions 
+of the functions are shown.  
+
+&nbsp;  
+&nbsp;  
+
+Lorenzo Mazzucchelli \hfill Marco Zanotti  
+
+*Ph.D Candidate in Economics \hfill Data Scientist & R Developer*  
+
+University of Milan & University of Pavia \hfill T-Voice - Triboo Group  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+```{r, echo=FALSE, out.width="20%", fig.show='hold', fig.align='center'}
+knitr::include_graphics(c("figures/useRlogo.png","figures/logo.png"))
+``` 
