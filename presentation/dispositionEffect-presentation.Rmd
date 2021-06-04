@@ -310,11 +310,9 @@ See vignette [Disposition Effect in Parallel](https://marcozanotti.github.io/dis
 ---
 class: center, middle
 # Thanks!
-  
-```{r, echo=FALSE, out.width='15%', fig.align='center', fig.alt='dispositionEffect Logo'}
-knitr::include_graphics("figures/logo.png")
-```
 
-[**dispositionEffect**](https://marcozanotti.github.io/dispositionEffect/)  
+<a href='https://marcozanotti.github.io/dispositionEffect/'><img src="figures/logo.png", alt="dispositionEffect Logo", width="20%"/></a>
 
-Lorenzo Mazzucchelli, Marco Zanotti
+Lorenzo Mazzucchelli, Marco Zanotti  
+
+[download presentation](https://github.com/marcozanotti/dispostionEffect-useR2021)
