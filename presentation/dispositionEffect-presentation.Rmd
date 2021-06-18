@@ -2,7 +2,7 @@
 title: "Computing Disposition Effect <br> on Financial Market Data"
 author: "Lorenzo Mazzucchelli  -  Marco Zanotti"
 institute: "University of Milan  -  Triboo"
-date: "2021/07/07"
+date: "2021/07/06"
 output:
   xaringan::moon_reader:
     css: ["useR", "useR-fonts"]

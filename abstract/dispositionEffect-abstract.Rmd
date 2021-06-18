@@ -1,7 +1,7 @@
 ---
 title: "Computing Disposition Effect on Financial Market Data"
 author: "Lorenzo Mazzucchelli  -  Marco Zanotti"
-date: "2021/07/07"
+date: "2021/07/06"
 output: pdf_document
 ---
 
